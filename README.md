@@ -55,6 +55,8 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 ### OWASP Goats
 
+> Deliberately insecure web applications maintained by OWASP designed to teach web application security lessons.
+
 **Webgoat:** https://github.com/WebGoat/WebGoat
 
 **Railsgoat:** https://github.com/OWASP/railsgoat
