@@ -8,21 +8,20 @@
 
 # OWASP
 
-**Home Page:** https://www.owasp.org/index.php/Main_Page
-
-**Youtube:** https://www.youtube.com/OWASPGLOBAL/
-
 > OWASP is a worldwide not-for-profit charitable organization focused on improving the security of software.
+
+**Home Page:** https://www.owasp.org/index.php/Main_Page
+**Youtube:** https://www.youtube.com/OWASPGLOBAL/
 
 - [Activities](#Activites)
 - [Attacks](#Attacks)
-- [Cheat Sheets](#Cheat-Sheets): e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
-- [Checklists](#Checklists): e.g. Mobile Apps Checklist
+- [Cheat Sheets](#Cheat-Sheets): e.g. [Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet](#Cheat-Sheets)
+- [Checklists](#Checklists): e.g. [Mobile Apps Checklist](#Checklists)
 - [Controls](#Controls)
-- [Guidelines](#Guidelines): e.g. Secure Coding Practices Quick Reference
-- [Projects](#Projects): e.g. - [OWASP Top Ten](#Top-Ten-Project)
+- [Guidelines](#Guidelines): e.g. [Secure Coding Practices Quick Reference](#Guidelines)
+- [Projects](#Projects): e.g. [OWASP Top Ten](#Top-Ten-Project)
 - [Principles](#Principles)
-- [Standards](#Standards): e.g. Application Security Verification Standard
+- [Standards](#Standards): e.g. [Application Security Verification Standard](#Standards)
 - [Teaching Environments](#Teaching-Environments): e.g. [Webgoat](#Goats)
 
 ---
