@@ -16,13 +16,14 @@
 
 - [Activities](#Activites)
 - [Attacks](#Attacks)
+- [Cheat Sheets](#Cheat-Sheets): e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
+- [Checklists](#Checklists): e.g. Mobile Apps Checklist
 - [Controls](#Controls)
-- [Projects](#OWASP-Projects): e.g. - [OWASP Top Ten](#OWASP-Top-Ten-Project)
-- [Standards](#OWASP-Standards): e.g. Application Security Verification Standard
-- [Teaching Environments](#OWASP-Teaching-Environments): e.g. [Webgoat](#Goats)
-- [Cheat Sheets](#OWASP-Cheat-Sheets): e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
-- [Checklists](#OWASP-Checklists): e.g. Mobile Apps Checklist
-- [Guidelines](#OWASP-Guidelines): e.g. Secure Coding Practices Quick Reference
+- [Guidelines](#Guidelines): e.g. Secure Coding Practices Quick Reference
+- [Projects](#Projects): e.g. - [OWASP Top Ten](#Top-Ten-Project)
+- [Principles](#Principles)
+- [Standards](#Standards): e.g. Application Security Verification Standard
+- [Teaching Environments](#Teaching-Environments): e.g. [Webgoat](#Goats)
 
 ---
 
@@ -44,9 +45,9 @@ https://www.owasp.org/index.php/Category:Attack
 
 https://www.owasp.org/index.php/Category:Control
 
-# OWASP Projects
+# Projects
 
-## OWASP Top Ten Project
+### Top Ten Project
 
 > OWASP Top 10 Most Critical Web Application Security Risks
 
@@ -72,13 +73,15 @@ https://www.owasp.org/index.php/Category:Control
 10) Insufficient Logging And Monitoring
 ```
 
-# OWASP Standards
+
+# Standards
 
 [Application Security Verification Standard](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
 
 > The [OWASP Application Security Verification Standard (ASVS)](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
 
-# OWASP Teaching Environments
+
+# Teaching Environments
 
 ### Goats
 
@@ -90,14 +93,15 @@ https://www.owasp.org/index.php/Category:Control
 
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
 
-# OWASP Cheat Sheets
+
+# Cheat Sheets
 
 - https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
 - https://github.com/OWASP/CheatSheetSeries
 - https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
 
 
-# OWASP Checklists
+# Checklists
 
 - https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
 
@@ -115,9 +119,15 @@ https://www.owasp.org/index.php/Category:Control
 12)	[Memory Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Memory_Management)
 13)	[General Coding Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#General_Coding_Practices)
 
-# OWASP Guidelines
+# Guidelines
 
-TODO
+[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
+
+# Principles
+
+> Application security principles are collections of desirable application properties, behaviors, designs and implementation practices that attempt to reduce the likelihood of threat realization and impact should that threat be realized.
+
+https://www.owasp.org/index.php/Category:Principle
 
 ---
 
