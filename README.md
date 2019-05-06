@@ -23,6 +23,7 @@
 - [Principles](#Principles)
 - [Standards](#Standards): e.g. [Application Security Verification Standard](#Standards)
 - [Teaching Environments](#Teaching-Environments): e.g. [Webgoat](#Goats)
+- [Threats](#Threats)
 - [Vulnerabilities](#Vulnerabilities)
 
 ---
@@ -136,11 +137,20 @@ https://www.owasp.org/index.php/Category:Principle
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
 
 
+# Threats
+
+> A threat that plague a product. While known threats are identified based on signatures, files copied onto the hard drive upon installation, registry keys, protocol analysis and others; we identify unknown threats by studying the product's behavior over a period of time.
+
+https://www.owasp.org/index.php/Category:Threat
+
+
 # Vulnerabilities
 
 > A vulnerability is a hole or a weakness in the application, which can be a design flaw or an implementation bug, that allows an attacker to cause harm to the stakeholders of an application.
 
 https://www.owasp.org/index.php/Category:Vulnerability
+
+The term "vulnerability" is often used very loosely. However, here we need to distinguish [threats](#Threats), [attacks](#Attacks), and countermeasures.
 
 ---
 
