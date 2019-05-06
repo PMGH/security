@@ -48,16 +48,13 @@ https://www.owasp.org/index.php/Category:Control
 
 ## OWASP Top Ten Project
 
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
-
 > OWASP Top 10 Most Critical Web Application Security Risks
 
-**Purpose:** The OWASP Top Ten provides a powerful awareness document for web application security. The OWASP Top Ten represents a broad consensus about what the most critical web application security flaws are.
-
-**Github**:
+- https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 - https://github.com/OWASP/Top10
 - https://github.com/OWASP/OWASP-Top-10
-- Cheat Sheets: https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
+
+**Purpose:** The OWASP Top Ten provides a powerful awareness document for web application security. The OWASP Top Ten represents a broad consensus about what the most critical web application security flaws are.
 
 **2017 (latest)** - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 
@@ -95,11 +92,28 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 # OWASP Cheat Sheets
 
-TODO
+- https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+- https://github.com/OWASP/CheatSheetSeries
+- https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
+
 
 # OWASP Checklists
 
-TODO
+- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+
+1)	[Input Validation](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Input_Validation)
+2)	[Output Encoding](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Output_Encoding)
+3)	[Authentication and Password Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Authentication_and_Password_Management)
+4)	[Session Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Session_Management)
+5)	[Access Control](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Access_Control)
+6)	[Cryptographic Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Cryptographic_Practices)
+7)	[Error Handling and Logging](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Error_Handling_and_Logging)
+8)	[Communication Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Communication_Security)
+9)	[System Configuration](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#System_Configuration)
+10)	[Database Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Database_Security)
+11)	[File Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#File_Management)
+12)	[Memory Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Memory_Management)
+13)	[General Coding Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#General_Coding_Practices)
 
 # OWASP Guidelines
 
