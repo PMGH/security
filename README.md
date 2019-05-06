@@ -52,6 +52,7 @@ https://www.owasp.org/index.php/Category:Attack
 - https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
 - https://github.com/OWASP/CheatSheetSeries
 - https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
+- **https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets**
 
 [Contents](#OWASP)
 
@@ -81,14 +82,33 @@ https://www.owasp.org/index.php/Category:Attack
 
 > [The Information Systems Audit and Control Association (ISACA)](https://www.isaca.org/pages/default.aspx) defines control as the means of managing risk, including policies, procedures, guidelines, practices or organizational structures, which can be of an administrative, technical, management, or legal nature.
 
-https://www.owasp.org/index.php/Category:Control
+**https://www.owasp.org/index.php/Category:Control**
+
+Breakdown could include **administrative**, **technical** and **physical** controls. Alternatively; **preventive**, **detective** and **corrective**.
+
+**Examples of Application Software Security controls (The Council on CyberSecurity Critical Security Controls):**
+```
+- Patching
+- Implement a Web Application Firewall (WAF)
+- Error checking all input
+- Use an automated scanner to look for security weaknesses
+- Output sanitization of error messages
+- Segregation development and production environments
+- Secure code analysis, manual and automated
+- Verify vendor security processes
+- Database configuration hardening
+- Train developers on writing secure code
+- Remove development artifacts from production code
+```
+
+*Of these 11, it is interesting to note that two relate to **infrastructure architecture**, four are **operational**, two are part of **testing processes**, and only three are things that are done as part of **coding**.*
 
 [Contents](#OWASP)
 
 
 # Guidelines
 
-[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
+**[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)**
 
 [Contents](#OWASP)
 
@@ -99,13 +119,13 @@ https://www.owasp.org/index.php/Category:Control
 
 > OWASP Top 10 Most Critical Web Application Security Risks
 
-- https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
-- https://github.com/OWASP/Top10
-- https://github.com/OWASP/OWASP-Top-10
+- **https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project**
+- **https://github.com/OWASP/Top10**
+- **https://github.com/OWASP/OWASP-Top-10**
 
 **Purpose:** The OWASP Top Ten provides a powerful awareness document for web application security. The OWASP Top Ten represents a broad consensus about what the most critical web application security flaws are.
 
-**2017 (latest)** - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+**2017 (latest) - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf**
 
 **Top 10 2017:**
 ```
@@ -161,7 +181,24 @@ https://www.owasp.org/index.php/Category:Principle
 
 > A threat that plague a product. While known threats are identified based on signatures, files copied onto the hard drive upon installation, registry keys, protocol analysis and others; we identify unknown threats by studying the product's behavior over a period of time.
 
-https://www.owasp.org/index.php/Category:Threat
+**https://www.owasp.org/index.php/Category:Threat**
+
+**Examples of threats:**
+```
+- Reverse Trojan (Server-to-Client)
+- Time bomb
+- Bots
+- Logic bomb
+- Key loggers
+- Sniffers
+- Backdoors
+- Rootkits
+- Viruse
+- Worm
+- Spyware
+- Trojan Horse
+```
+
 
 [Contents](#OWASP)
 
@@ -170,9 +207,17 @@ https://www.owasp.org/index.php/Category:Threat
 
 > A vulnerability is a hole or a weakness in the application, which can be a design flaw or an implementation bug, that allows an attacker to cause harm to the stakeholders of an application.
 
-https://www.owasp.org/index.php/Category:Vulnerability
+**https://www.owasp.org/index.php/Category:Vulnerability**
 
 The term "vulnerability" is often used very loosely. However, here we need to distinguish [threats](#Threats), [attacks](#Attacks), and countermeasures.
+
+**Examples of vulnerabilities:**
+```
+- Lack of input validation on user input
+- Lack of sufficient logging mechanism
+- Fail-open error handling
+- Not closing the database connection properly
+```
 
 [Contents](#OWASP)
 
