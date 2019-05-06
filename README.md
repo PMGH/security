@@ -15,15 +15,18 @@
 > OWASP is a worldwide not-for-profit charitable organization focused on improving the security of software.
 
 
-- **Projects:** e.g. OWASP Top Ten
+- [Projects](#OWASP_Projects): e.g. - [OWASP Top Ten](#OWASP_Top_Ten_Project)
 - **Standards:** e.g. Application Security Verification Standard
 - **Teaching Environments:** e.g. Webgoat
 - **Cheat Sheets:** e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
 - **Checklists:** e.g. Mobile Apps Checklist
 - **Guidelines:** e.g. Secure Coding Practices Quick Reference
 
+---
 
-#### OWASP Top Ten Project
+# OWASP Projects
+
+## OWASP Top Ten Project
 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
