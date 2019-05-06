@@ -4,7 +4,7 @@
 
 **https://www.owasp.org/index.php/Category:Attack**
 
-## Examples
+## Contents
 
 - [Abuse of Functionality](#abuse-of-functionality)
 - [Automated Threat](#automated-threat)
@@ -161,7 +161,11 @@
 
 ### Sniffing Attacks
 
+https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 
+> Sniffing application traffic simply means that the attacker is able to view network traffic and will try to steal credentials, confidential information, or other sensitive data.
+
+> Anyone with physical access to the network, whether it is switched or via a hub, is likely able to sniff the traffic. (See dsniff and arpspoof tools). Also, anyone with access to intermediate routers, firewalls, proxies, servers, or other networking gear may be able to see the traffic as well.
 
 ### Spoofing Attacks
 
