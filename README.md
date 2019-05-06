@@ -33,7 +33,7 @@
 
 > Application security activities are key practices that are performed during the software development lifecycle in order to reduce risk or increase assurance in an application. E.g. Log review and management
 
-https://www.owasp.org/index.php/Category:Activity
+**https://www.owasp.org/index.php/Category:Activity**
 
 [Contents](#OWASP)
 
@@ -42,7 +42,7 @@ https://www.owasp.org/index.php/Category:Activity
 
 > Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. E.g. SQL injection
 
-https://www.owasp.org/index.php/Category:Attack
+**https://www.owasp.org/index.php/Category:Attack**
 
 [Contents](#OWASP)
 
@@ -59,7 +59,7 @@ https://www.owasp.org/index.php/Category:Attack
 
 # Checklists
 
-- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+**https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist**
 
 1)	[Input Validation](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Input_Validation)
 2)	[Output Encoding](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Output_Encoding)
