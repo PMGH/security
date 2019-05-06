@@ -23,8 +23,10 @@
 - [Principles](#Principles)
 - [Standards](#Standards): e.g. [Application Security Verification Standard](#Standards)
 - [Teaching Environments](#Teaching-Environments): e.g. [Webgoat](#Goats)
+- [Vulnerabilities](#Vulnerabilities)
 
 ---
+
 
 # Activities
 
@@ -133,6 +135,12 @@ https://www.owasp.org/index.php/Category:Principle
 
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
 
+
+# Vulnerabilities
+
+> A vulnerability is a hole or a weakness in the application, which can be a design flaw or an implementation bug, that allows an attacker to cause harm to the stakeholders of an application.
+
+https://www.owasp.org/index.php/Category:Vulnerability
 
 ---
 
