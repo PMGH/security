@@ -9,7 +9,7 @@
 - [Abuse of Functionality](#abuse-of-functionality)
 - [Automated Threat](#automated-threat)
 - [Data Structure Attacks](#data-structure-attacks)
-- [Embedded Maliicious Code](#embedded-malicious-code)
+- [Embedded Malicious Code](#embedded-malicious-code)
 - [Exploitation of Authentication](#exploitation-of-authentication)
 - [Injection](#injection)
 - [Path Traversal Attack](#path-traversal-attack)
@@ -67,7 +67,7 @@
 - [Buffer Overflow via Environment Variables](https://www.owasp.org/index.php/Buffer_Overflow_via_Environment_Variables)
 
 
-### Embedded Maliicious Code
+### Embedded Malicious Code
 
 - [Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 - [Logic / Time Bomb](https://www.owasp.org/index.php/Logic/time_bomb)
