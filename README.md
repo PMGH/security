@@ -14,15 +14,35 @@
 
 > OWASP is a worldwide not-for-profit charitable organization focused on improving the security of software.
 
-
+- [Activities](#Activites)
+- [Attacks](#Attacks)
+- [Controls](#Controls)
 - [Projects](#OWASP-Projects): e.g. - [OWASP Top Ten](#OWASP-Top-Ten-Project)
 - [Standards](#OWASP-Standards): e.g. Application Security Verification Standard
-- [Teaching Environments](#OWASP-Teaching-Environments): e.g. Webgoat
+- [Teaching Environments](#OWASP-Teaching-Environments): e.g. [Webgoat](#Goats)
 - [Cheat Sheets](#OWASP-Cheat-Sheets): e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
 - [Checklists](#OWASP-Checklists): e.g. Mobile Apps Checklist
 - [Guidelines](#OWASP-Guidelines): e.g. Secure Coding Practices Quick Reference
 
 ---
+
+# Activities
+
+> Application security activities are key practices that are performed during the software development lifecycle in order to reduce risk or increase assurance in an application. E.g. Log review and management
+
+https://www.owasp.org/index.php/Category:Activity
+
+# Attacks
+
+> Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. E.g. SQL injection
+
+https://www.owasp.org/index.php/Category:Attack
+
+# Controls
+
+> [The Information Systems Audit and Control Association (ISACA)](https://www.isaca.org/pages/default.aspx) defines control as the means of managing risk, including policies, procedures, guidelines, practices or organizational structures, which can be of an administrative, technical, management, or legal nature.
+
+https://www.owasp.org/index.php/Category:Control
 
 # OWASP Projects
 
@@ -57,7 +77,9 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 # OWASP Standards
 
-TODO
+[Application Security Verification Standard](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
+
+> The [OWASP Application Security Verification Standard (ASVS)](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
 
 # OWASP Teaching Environments
 
