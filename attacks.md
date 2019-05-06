@@ -32,6 +32,9 @@
 - [Path Traversal](https://www.owasp.org/index.php/Path_Traversal)
 - [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery)
 
+[Contents](#contents)
+
+
 ### Automated Threat
 
 > Threat events (an instance of something causing harm) to applications undertaken using automated actions. The focus is on abuse of functionality - misuse of inherent functionality and related design flaws, some of which are also referred to as business logic flaws. There is almost no focus on implementation bugs.
@@ -60,11 +63,15 @@
 - [OAT-020 Account Aggregation](https://www.owasp.org/index.php/OAT-020_Account_Aggregation)
 - [OAT-021 Denial of Inventory](https://www.owasp.org/index.php/OAT-021_Denial_of_Inventory)
 
+[Contents](#contents)
+
 
 ### Data Structure Attacks
 
 - [Buffer Overflow Attack](https://www.owasp.org/index.php/Buffer_overflow_attack)
 - [Buffer Overflow via Environment Variables](https://www.owasp.org/index.php/Buffer_Overflow_via_Environment_Variables)
+
+[Contents](#contents)
 
 
 ### Embedded Malicious Code
@@ -72,6 +79,8 @@
 - [Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 - [Logic / Time Bomb](https://www.owasp.org/index.php/Logic/time_bomb)
 - [Trojan Horse](https://www.owasp.org/index.php/Trojan_Horse)
+
+[Contents](#contents)
 
 
 ### Exploitation of Authentication
@@ -84,6 +93,8 @@
 - [Session Hijacking Attack](https://www.owasp.org/index.php/Session_hijacking_attack)
 - [Session Prediction](https://www.owasp.org/index.php/Session_Prediction)
 - [XSRF](https://www.owasp.org/index.php/XSRF)
+
+[Contents](#contents)
 
 
 ### Injection
@@ -114,6 +125,8 @@
 - [XPATH Injection](https://www.owasp.org/index.php/XPATH_Injection)
 - [XSS in Subtitle](https://www.owasp.org/index.php/Xss_in_subtitle)
 
+[Contents](#contents)
+
 
 ### Path Traversal Attack
 
@@ -125,6 +138,8 @@
 
 - [Path Traversal](https://www.owasp.org/index.php/Path_Traversal)
 
+[Contents](#contents)
+
 
 ### Probabilistic Techniques
 
@@ -133,16 +148,22 @@
 - [Cryptanalysis](https://www.owasp.org/index.php/Cryptanalysis)
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)
 
+[Contents](#contents)
+
 
 ### Protocol Manipulation
 
 - [Traffic Flood](https://www.owasp.org/index.php/Traffic_flood)
+
+[Contents](#contents)
 
 
 ### Resource Depletion
 
 - [Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)
+
+[Contents](#contents)
 
 
 ### Resource Manipulation
@@ -158,6 +179,8 @@
 - [Spyware](https://www.owasp.org/index.php/Spyware)
 - [Unicode Encoding](https://www.owasp.org/index.php/Unicode_Encoding)
 
+[Contents](#contents)
+
 
 ### Sniffing Attacks
 
@@ -167,6 +190,9 @@ https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 
 > Anyone with physical access to the network, whether it is switched or via a hub, is likely able to sniff the traffic. (See dsniff and arpspoof tools). Also, anyone with access to intermediate routers, firewalls, proxies, servers, or other networking gear may be able to see the traffic as well.
 
+[Contents](#contents)
+
+
 ### Spoofing Attacks
 
 - [Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)
@@ -174,4 +200,6 @@ https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)
 - [Man-In-The-Middle Attack](https://www.owasp.org/index.php/Man-in-the-middle_attack)
 - [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery)
+
+[Contents](#contents)
 
