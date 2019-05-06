@@ -16,11 +16,11 @@
 
 
 - [Projects](#OWASP-Projects): e.g. - [OWASP Top Ten](#OWASP-Top-Ten-Project)
-- **Standards:** e.g. Application Security Verification Standard
-- **Teaching Environments:** e.g. Webgoat
-- **Cheat Sheets:** e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
-- **Checklists:** e.g. Mobile Apps Checklist
-- **Guidelines:** e.g. Secure Coding Practices Quick Reference
+- [Standards](#OWASP-Standards): e.g. Application Security Verification Standard
+- [Teaching Environments](#OWASP-Teaching-Environments): e.g. Webgoat
+- [Cheat Sheets](#OWASP-Cheat-Sheets): e.g. Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
+- [Checklists](#OWASP-Checklists): e.g. Mobile Apps Checklist
+- [Guidelines](#OWASP-Guidelines): e.g. Secure Coding Practices Quick Reference
 
 ---
 
@@ -55,8 +55,13 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 10) Insufficient Logging And Monitoring
 ```
 
+# OWASP Standards
 
-### OWASP Goats
+TODO
+
+# OWASP Teaching Environments
+
+### Goats
 
 > Deliberately insecure web applications maintained by OWASP designed to teach web application security lessons.
 
@@ -65,6 +70,18 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 **Railsgoat:** https://github.com/OWASP/railsgoat
 
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
+
+# OWASP Cheat Sheets
+
+TODO
+
+# OWASP Checklists
+
+TODO
+
+# OWASP Guidelines
+
+TODO
 
 ---
 
