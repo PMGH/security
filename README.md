@@ -32,17 +32,51 @@
 
 https://www.owasp.org/index.php/Category:Activity
 
+
 # Attacks
 
 > Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. E.g. SQL injection
 
 https://www.owasp.org/index.php/Category:Attack
 
+
+# Cheat Sheets
+
+- https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+- https://github.com/OWASP/CheatSheetSeries
+- https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
+
+
+# Checklists
+
+- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+
+1)	[Input Validation](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Input_Validation)
+2)	[Output Encoding](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Output_Encoding)
+3)	[Authentication and Password Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Authentication_and_Password_Management)
+4)	[Session Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Session_Management)
+5)	[Access Control](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Access_Control)
+6)	[Cryptographic Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Cryptographic_Practices)
+7)	[Error Handling and Logging](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Error_Handling_and_Logging)
+8)	[Communication Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Communication_Security)
+9)	[System Configuration](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#System_Configuration)
+10)	[Database Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Database_Security)
+11)	[File Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#File_Management)
+12)	[Memory Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Memory_Management)
+13)	[General Coding Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#General_Coding_Practices)
+
+
 # Controls
 
 > [The Information Systems Audit and Control Association (ISACA)](https://www.isaca.org/pages/default.aspx) defines control as the means of managing risk, including policies, procedures, guidelines, practices or organizational structures, which can be of an administrative, technical, management, or legal nature.
 
 https://www.owasp.org/index.php/Category:Control
+
+
+# Guidelines
+
+[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
+
 
 # Projects
 
@@ -73,6 +107,13 @@ https://www.owasp.org/index.php/Category:Control
 ```
 
 
+# Principles
+
+> Application security principles are collections of desirable application properties, behaviors, designs and implementation practices that attempt to reduce the likelihood of threat realization and impact should that threat be realized.
+
+https://www.owasp.org/index.php/Category:Principle
+
+
 # Standards
 
 [Application Security Verification Standard](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
@@ -92,41 +133,6 @@ https://www.owasp.org/index.php/Category:Control
 
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
 
-
-# Cheat Sheets
-
-- https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-- https://github.com/OWASP/CheatSheetSeries
-- https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
-
-
-# Checklists
-
-- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
-
-1)	[Input Validation](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Input_Validation)
-2)	[Output Encoding](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Output_Encoding)
-3)	[Authentication and Password Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Authentication_and_Password_Management)
-4)	[Session Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Session_Management)
-5)	[Access Control](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Access_Control)
-6)	[Cryptographic Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Cryptographic_Practices)
-7)	[Error Handling and Logging](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Error_Handling_and_Logging)
-8)	[Communication Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Communication_Security)
-9)	[System Configuration](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#System_Configuration)
-10)	[Database Security](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Database_Security)
-11)	[File Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#File_Management)
-12)	[Memory Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Memory_Management)
-13)	[General Coding Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#General_Coding_Practices)
-
-# Guidelines
-
-[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
-
-# Principles
-
-> Application security principles are collections of desirable application properties, behaviors, designs and implementation practices that attempt to reduce the likelihood of threat realization and impact should that threat be realized.
-
-https://www.owasp.org/index.php/Category:Principle
 
 ---
 
