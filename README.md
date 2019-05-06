@@ -1,7 +1,5 @@
 # Security
 
----
-
 ## Table of Contents
 
 - [Open Web Application Security Project (OWASP)](#owasp)
