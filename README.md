@@ -223,6 +223,8 @@ The term "vulnerability" is often used very loosely. However, here we need to di
 - Not closing the database connection properly
 ```
 
+[Further Information](./vulnerabilities.md)
+
 [Contents](#OWASP)
 
 ---
