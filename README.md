@@ -86,6 +86,8 @@ https://www.owasp.org/index.php/Category:Attack
 
 Breakdown could include **administrative**, **technical** and **physical** controls. Alternatively; **preventive**, **detective** and **corrective**.
 
+![process_goals](images/control_support.jpg)
+
 **Examples of Application Software Security controls (The Council on CyberSecurity Critical Security Controls):**
 ```
 - Patching
