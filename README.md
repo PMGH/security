@@ -8,9 +8,9 @@
 
 # OWASP
 
-https://www.owasp.org/index.php/Main_Page
+**Home Page:** https://www.owasp.org/index.php/Main_Page
 
-https://www.youtube.com/OWASPGLOBAL/
+**Youtube:** https://www.youtube.com/OWASPGLOBAL/
 
 > OWASP is a worldwide not-for-profit charitable organization focused on improving the security of software.
 
@@ -28,9 +28,6 @@ https://www.youtube.com/OWASPGLOBAL/
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 > OWASP Top 10 Most Critical Web Application Security Risks
-
-> Although the original goal of the OWASP Top 10 project was simply to raise awareness amongst developers and managers,
-it has become the de facto application security standard.
 
 **Purpose:** The OWASP Top Ten provides a powerful awareness document for web application security. The OWASP Top Ten represents a broad consensus about what the most critical web application security flaws are.
 
