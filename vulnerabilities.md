@@ -51,11 +51,11 @@
 
 ### Availability
 
-
+No OWASP links available.
 
 ### Code Permission
 
-
+No OWASP links available.
 
 ### Code Quality
 
@@ -73,7 +73,7 @@
 
 ### Configuration
 
-
+No OWASP links available.
 
 ### Cryptographic
 
@@ -124,7 +124,7 @@
 
 ### Encoding
 
-
+No OWASP links available.
 
 ### Environmental
 
@@ -193,16 +193,32 @@ Attacks that can exploit this vulnerability:
 
 ### Sensitive Data Protection
 
+> Vulnerabilities that lead to insecure protection of sensitive data. The protection referred here includes confidentiality and integrity of data during its whole lifecycles, including storage and transmission. Protection for sensitive data that are not intended to be revealed to or modified by any application users.
+
+> Examples of this kind of sensitive data can be cryptographic keys, passwords, security tokens or any information that an application relies on for critical decisions.
+
+- [Information Exposure Through Query Strings in URL](https://www.owasp.org/index.php/Information_exposure_through_query_strings_in_url)
+- [Password Management: Hardcoded Password](https://www.owasp.org/index.php/Password_Management:_Hardcoded_Password)
+- [Password Plaintext Storage](https://www.owasp.org/index.php/Password_Plaintext_Storage)
+- [Privacy Violation](https://www.owasp.org/index.php/Privacy_Violation)
 
 
 ### Session Management
 
+- [Insufficient Session ID Length](https://www.owasp.org/index.php/Insufficient_Session-ID_Length)
+- [Session Variable Overloading](https://www.owasp.org/index.php/Session_Variable_Overloading)
 
 
 ### Unsafe Mobile Code
 
-
+No OWASP links available.
 
 ### Use of Dangerous API
 
+- [Directory Restriction Error](https://www.owasp.org/index.php/Directory_Restriction_Error)
+- [Insecure Temporary File](https://www.owasp.org/index.php/Insecure_Temporary_File)
+- [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
+- [Unsafe Java Native Interface (JNI)](https://www.owasp.org/index.php/Unsafe_JNI)
+- [Unsafe Use of Reflection](https://www.owasp.org/index.php/Unsafe_use_of_Reflection)
+- [Use of Obsolete Methods](https://www.owasp.org/index.php/Use_of_Obsolete_Methods)
 
