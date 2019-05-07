@@ -85,14 +85,14 @@
 
 ### Exploitation of Authentication
 
-- [Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
-- [CSRF](https://www.owasp.org/index.php/CSRF)
-- [Execution After Redirect (AER)](https://www.owasp.org/index.php/Execution_After_Redirect_(EAR))
-- [One-Click Attack](https://www.owasp.org/index.php/One-Click_Attack)
-- [Session Fixation](https://www.owasp.org/index.php/Session_fixation)
-- [Session Hijacking Attack](https://www.owasp.org/index.php/Session_hijacking_attack)
-- [Session Prediction](https://www.owasp.org/index.php/Session_Prediction)
-- [XSRF](https://www.owasp.org/index.php/XSRF)
+- <abbr title="Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.">[Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))</abbr>
+- <abbr title="Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.">[CSRF](https://www.owasp.org/index.php/CSRF)</abbr>
+- <abbr title="Execution After Redirect (EAR) is an attack where an attacker ignores redirects and retrieves sensitive content intended for authenticated users.">[Execution After Redirect (AER)](https://www.owasp.org/index.php/Execution_After_Redirect_(EAR))</abbr>
+- <abbr title="Cross-Site Request Forgery (CSRF)">[One-Click Attack](https://www.owasp.org/index.php/One-Click_Attack)</abbr>
+- <abbr title="Session Fixation is an attack that permits an attacker to hijack a valid user session. When authenticating a user, the vulnerable app doesn’t assign a new session ID, making it possible to use an existent session ID.">[Session Fixation](https://www.owasp.org/index.php/Session_fixation)</abbr>
+- <abbr title="The Session Hijacking attack consists of the exploitation of the web session control mechanism, which is normally managed for a session token. The Session Hijacking attack compromises the session token by stealing or predicting a valid session token to gain unauthorized access to the Web Server.">[Session Hijacking Attack](https://www.owasp.org/index.php/Session_hijacking_attack)</abbr>
+- <abbr title="The session prediction attack focuses on predicting session ID values that permit an attacker to bypass the authentication schema of an application. By analyzing and understanding the session ID generation process, an attacker can predict a valid session ID value and get access to the application.">[Session Prediction](https://www.owasp.org/index.php/Session_Prediction)</abbr>
+- <abbr title="Cross-Site Request Forgery (CSRF)">[XSRF](https://www.owasp.org/index.php/XSRF)</abbr>
 
 [Contents](#contents)
 
