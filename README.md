@@ -154,6 +154,17 @@ Breakdown could include **administrative**, **technical** and **physical** contr
 
 https://www.owasp.org/index.php/Category:Principle
 
+- Apply defense in depth (complete mediation)
+- Use a positive security model (fail-safe defaults, minimize attack surface)
+- Fail securely
+- Run with least privilege
+- Avoid security by obscurity (open design)
+- Keep security simple (verifiable, economy of mechanism)
+- Detect intrusions (compromise recording)
+- Don’t trust infrastructure
+- Don’t trust services
+- Establish secure defaults (psychological acceptability)
+
 [Contents](#OWASP)
 
 
