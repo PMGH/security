@@ -68,8 +68,8 @@
 
 ### Data Structure Attacks
 
-- [Buffer Overflow Attack](https://www.owasp.org/index.php/Buffer_overflow_attack)
-- [Buffer Overflow via Environment Variables](https://www.owasp.org/index.php/Buffer_Overflow_via_Environment_Variables)
+- <abbr title="Buffer overflows can consist of overflowing the stack (Stack overflow) or overflowing the heap (Heap overflow).">[Buffer Overflow Attack](https://www.owasp.org/index.php/Buffer_overflow_attack)</abbr>
+- <abbr title="This attack pattern involves causing a buffer overflow through manipulation of environment variables.">[Buffer Overflow via Environment Variables](https://www.owasp.org/index.php/Buffer_Overflow_via_Environment_Variables)</abbr>
 
 [Contents](#contents)
 
