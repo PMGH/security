@@ -76,9 +76,9 @@
 
 ### Embedded Malicious Code
 
-- [Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
-- [Logic / Time Bomb](https://www.owasp.org/index.php/Logic/time_bomb)
-- [Trojan Horse](https://www.owasp.org/index.php/Trojan_Horse)
+- <abbr title="Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.">[Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))</abbr>
+- <abbr title="A logic bomb is a piece of malicious code that executes when specific trigger conditions are met.">[Logic / Time Bomb](https://www.owasp.org/index.php/Logic/time_bomb)</abbr>
+- <abbr title="A Trojan Horse is a program that uses malicious code masqueraded as a trusted application.">[Trojan Horse](https://www.owasp.org/index.php/Trojan_Horse)</abbr>
 
 [Contents](#contents)
 
