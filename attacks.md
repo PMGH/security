@@ -143,10 +143,10 @@
 
 ### Probabilistic Techniques
 
-- [Brute Force Attack](https://www.owasp.org/index.php/Brute_force_attack)
-- [Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)
-- [Cryptanalysis](https://www.owasp.org/index.php/Cryptanalysis)
-- [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)
+- <abbr title="A brute force attack can manifest itself in many different ways, but primarily consists in an attacker configuring predetermined values, making requests to a server using those values, and then analyzing the response. For the sake of efficiency, an attacker may use a dictionary attack (with or without mutations) or a traditional brute-force attack (with given classes of characters e.g.: alphanumerical, special, case (in)sensitive).">[Brute Force Attack](https://www.owasp.org/index.php/Brute_force_attack)</abbr>
+- <abbr title="A Cash Overflow attack is a Denial of Service attack specifically aimed at exceeding the hosting costs for a cloud application, either essentially bankrupting the service owner or exceeding the application cost limits, leading the cloud service provider to disable the application.">[Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)</abbr>
+- <abbr title="Cryptanalysis is a process of finding weaknesses in cryptographic algorithms and using these weaknesses to decipher the ciphertext without knowing the secret key (instance deduction). Sometimes the weakness is not in the cryptographic algorithm itself, but rather in how it is applied that makes cryptanalysis successful.">[Cryptanalysis](https://www.owasp.org/index.php/Cryptanalysis)</abbr>
+- <abbr title="The Denial of Service (DoS) attack is focused on making a resource (site, application, server) unavailable for the purpose it was designed. There are many ways to make a service unavailable for legitimate users by manipulating network packets, programming, logical, or resources handling vulnerabilities, among others. If a service receives a very large number of requests, it may cease to be available to legitimate users.">[Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)</abbr>
 
 [Contents](#contents)
 
