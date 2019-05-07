@@ -153,7 +153,7 @@
 
 ### Protocol Manipulation
 
-- <abbr title="Traffic Flood is a type of DoS attack targeting web servers. The attack explores the way that the TCP connection is managed. The attack consists of the generation of a lot of well-crafted TCP requisitions, with the objective to stop the Web Server or cause a performance decrease.">[Traffic Flood](https://www.owasp.org/index.php/Traffic_flood)</abbr>
+- <abbr title="Traffic Flood is a type of DoS attack targeting web servers. The attack explores the way that the TCP connection is managed. The attack consists of the generation of a lot of well-crafted TCP requisitions, with the objective to stop the Web Server or cause a performance decrease. The attack explores a characteristic of the HTTP protocol, opening many connections at the same time to attend a single requisition.">[Traffic Flood](https://www.owasp.org/index.php/Traffic_flood)</abbr>
 
 [Contents](#contents)
 
