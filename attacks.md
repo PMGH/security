@@ -195,11 +195,11 @@ https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 
 ### Spoofing Attacks
 
-- [Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)
-- [Cross Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
-- [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)
-- [Man-In-The-Middle Attack](https://www.owasp.org/index.php/Man-in-the-middle_attack)
-- [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery)
+- <abbr title="A Cash Overflow attack is a Denial of Service attack specifically aimed at exceeding the hosting costs for a cloud application, either essentially bankrupting the service owner or exceeding the application cost limits, leading the cloud service provider to disable the application.">[Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow)</abbr>
+- <abbr title="Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.">[Cross Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))</abbr>
+- <abbr title="The Denial of Service (DoS) attack is focused on making a resource (site, application, server) unavailable for the purpose it was designed. There are many ways to make a service unavailable for legitimate users by manipulating network packets, programming, logical, or resources handling vulnerabilities, among others. If a service receives a very large number of requests, it may cease to be available to legitimate users. In the same way, a service may stop if a programming vulnerability is exploited, or the way the service handles resources it uses.">[Denial of Service](https://www.owasp.org/index.php/Denial_of_Service)</abbr>
+- <abbr title="The man-in-the middle attack intercepts a communication between two systems. For example, in an http transaction the target is the TCP connection between client and server. Using different techniques, the attacker splits the original TCP connection into 2 new connections, one between the client and the attacker and the other between the attacker and the server. Once the TCP connection is intercepted, the attacker acts as a proxy, being able to read, insert and modify the data in the intercepted communication.">[Man-In-The-Middle Attack](https://www.owasp.org/index.php/Man-in-the-middle_attack)</abbr>
+- <abbr title="n a Server-Side Request Forgery (SSRF) attack, the attacker can abuse functionality on the server to read or update internal resources. The attacker can supply or a modify a URL which the code running on the server will read or submit data to, and by carefully selecting the URLs, the attacker may be able to read server configuration such as AWS metadata, connect to internal services like http enabled databases or perform post requests towards internal services which are not intended to be exposed.">[Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery)</abbr>
 
 [Contents](#contents)
 
