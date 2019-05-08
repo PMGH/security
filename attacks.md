@@ -41,27 +41,27 @@
 
 > In the specific case of web applications, threat events to web applications undertaken using automated actions. And for this web application case, attacks that can be achieved without the web are not in scope.
 
-- <a title="Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data.">[OAT-001 Carding](https://www.owasp.org/index.php/OAT-001_Carding)</a>
-- <a title="Mass enumeration of coupon numbers, voucher codes, discount tokens, etc.">[OAT-002 Token Cracking](https://www.owasp.org/index.php/OAT-002_Token_Cracking)</a>
-- <a title="False clicks and fraudulent display of web-placed advertisements.">[OAT-003 Ad Fraud](https://www.owasp.org/index.php/OAT-003_Ad_Fraud)</a>
-- <a title="Elicit information about the supporting so ware and framework types and versions.">[OAT-004 Fingerprinting](https://www.owasp.org/index.php/OAT-004_Fingerprinting)</a>
-- <a title="Obtain limited-availability and/or preferred goods/services by unfair methods.">[OAT-005 Scalping](https://www.owasp.org/index.php/OAT-005_Scalping)</a>
-- <a title="Perform actions to hasten progress of usually slow, tedious or time-consuming actions.">[OAT-006 Expediting](https://www.owasp.org/index.php/OAT-006_Expediting)</a>
-- <a title="Identify valid login credentials by trying different values for usernames and/or passwords.">[OAT-007 Credential Cracking](https://www.owasp.org/index.php/OAT-007_Credential_Cracking)</a>
-- <a title="Mass log in attempts used to verify the validity of stolen username/password pairs.">[OAT-008 Credential Stuffing](https://www.owasp.org/index.php/OAT-008_Credential_Stuffing)</a>
-- <a title="Solve anti-automation tests.">[OAT-009 CAPTCHA Defeat](https://www.owasp.org/index.php/OAT-009_CAPTCHA_Defeat)</a>
-- <a title="Identify missing start/expiry dates and security codes for stolen payment card data by trying different values.">[OAT-010 Card Cracking](https://www.owasp.org/index.php/OAT-010_Card_Cracking)</a>
-- <a title="Collect application content and/or other data for use elsewhere.">[OAT-011 Scraping](https://www.owasp.org/index.php/OAT-011_Scraping)</a>
-- <a title="Buy goods or obtain cash utilising validated stolen payment card or other user account data.">[OAT-012 Cashing Out](https://www.owasp.org/index.php/OAT-012_Cashing_Out)</a>
-- <a title="Last minute bid or offer for goods or services.">[OAT-013 Sniping](https://www.owasp.org/index.php/OAT-013_Sniping)</a>
-- <a title="Crawl and fuzz application to identify weaknesses and possible vulnerabilities.">[OAT-014 Vulnerability Scanning](https://www.owasp.org/index.php/OAT-014_Vulnerability_Scanning)</a>
-- <a title="Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS).">[OAT-015 Denial of Service](https://www.owasp.org/index.php/OAT-015_Denial_of_Service)</a>
-- <a title="Repeated link clicks, page requests or form submissions intended to alter some metric.">[OAT-016 Skewing](https://www.owasp.org/index.php/OAT-016_Skewing)</a>
-- <a title="Malicious or questionable information addition that appears in public or private content, databases or user messages.">[OAT-017 Spamming](https://www.owasp.org/index.php/OAT-017_Spamming)</a>
-- <a title="Probe and explore application to identify its constituents and properties.">[OAT-018 Footprinting](https://www.owasp.org/index.php/OAT-018_Footprinting)</a>
-- <a title="Create multiple accounts for subsequent misuse.">[OAT-019 Account Creation](https://www.owasp.org/index.php/OAT-019_Account_Creation)</a>
-- <a title="Use by an intermediary application that collects together multiple accounts and interacts on their behalf.">[OAT-020 Account Aggregation](https://www.owasp.org/index.php/OAT-020_Account_Aggregation)</a>
-- <a title="Deplete goods or services stock without ever completing the purchase or committing to the transaction.">[OAT-021 Denial of Inventory](https://www.owasp.org/index.php/OAT-021_Denial_of_Inventory)</a>
+- [OAT-001 Carding](https://www.owasp.org/index.php/OAT-001_Carding "Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data.")
+- [OAT-002 Token Cracking](https://www.owasp.org/index.php/OAT-002_Token_Cracking "Mass enumeration of coupon numbers, voucher codes, discount tokens, etc.")
+- [OAT-003 Ad Fraud](https://www.owasp.org/index.php/OAT-003_Ad_Fraud "False clicks and fraudulent display of web-placed advertisements.")
+- [OAT-004 Fingerprinting](https://www.owasp.org/index.php/OAT-004_Fingerprinting "Elicit information about the supporting so ware and framework types and versions.")
+- [OAT-005 Scalping](https://www.owasp.org/index.php/OAT-005_Scalping "Obtain limited-availability and/or preferred goods/services by unfair methods.")
+- [OAT-006 Expediting](https://www.owasp.org/index.php/OAT-006_Expediting "Perform actions to hasten progress of usually slow, tedious or time-consuming actions.")
+- [OAT-007 Credential Cracking](https://www.owasp.org/index.php/OAT-007_Credential_Cracking "Identify valid login credentials by trying different values for usernames and/or passwords.")
+- [OAT-008 Credential Stuffing](https://www.owasp.org/index.php/OAT-008_Credential_Stuffing "Mass log in attempts used to verify the validity of stolen username/password pairs.")
+- [OAT-009 CAPTCHA Defeat](https://www.owasp.org/index.php/OAT-009_CAPTCHA_Defeat "Solve anti-automation tests.")
+- [OAT-010 Card Cracking](https://www.owasp.org/index.php/OAT-010_Card_Cracking "Identify missing start/expiry dates and security codes for stolen payment card data by trying different values.")
+- [OAT-011 Scraping](https://www.owasp.org/index.php/OAT-011_Scraping "Collect application content and/or other data for use elsewhere.")
+- [OAT-012 Cashing Out](https://www.owasp.org/index.php/OAT-012_Cashing_Out "Buy goods or obtain cash utilising validated stolen payment card or other user account data.")
+- [OAT-013 Sniping](https://www.owasp.org/index.php/OAT-013_Sniping "Last minute bid or offer for goods or services.")
+- [OAT-014 Vulnerability Scanning](https://www.owasp.org/index.php/OAT-014_Vulnerability_Scanning "Crawl and fuzz application to identify weaknesses and possible vulnerabilities.")
+- [OAT-015 Denial of Service](https://www.owasp.org/index.php/OAT-015_Denial_of_Service "Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS).")
+- [OAT-016 Skewing](https://www.owasp.org/index.php/OAT-016_Skewing "Repeated link clicks, page requests or form submissions intended to alter some metric.")
+- [OAT-017 Spamming](https://www.owasp.org/index.php/OAT-017_Spamming "Malicious or questionable information addition that appears in public or private content, databases or user messages.")
+- [OAT-018 Footprinting](https://www.owasp.org/index.php/OAT-018_Footprinting "Probe and explore application to identify its constituents and properties.")
+- [OAT-019 Account Creation](https://www.owasp.org/index.php/OAT-019_Account_Creation "Create multiple accounts for subsequent misuse.")
+- [OAT-020 Account Aggregation](https://www.owasp.org/index.php/OAT-020_Account_Aggregation "Use by an intermediary application that collects together multiple accounts and interacts on their behalf.")
+- [OAT-021 Denial of Inventory](https://www.owasp.org/index.php/OAT-021_Denial_of_Inventory "Deplete goods or services stock without ever completing the purchase or committing to the transaction.")
 
 [Contents](#contents)
 
