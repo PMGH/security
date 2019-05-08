@@ -25,12 +25,12 @@
 ### Abuse of Functionality
 
 - [Cache Poisoning](https://www.owasp.org/index.php/Cache_Poisoning "The impact of a maliciously constructed response can be magnified if it is cached either by a web cache used by multiple users or even the browser cache of a single user.")
-- <a title="An attacker can make a single request to a vulnerable server that will cause the sever to create two responses, the second of which may be misinterpreted as a response to a different request, possibly one made by another user sharing the same TCP connection with the sever.">[Cross-User Defacement](https://www.owasp.org/index.php/Cross-User_Defacement)</a>
-- <a title="Manipulation of a mobile code in order to execute malicious operations at the client side.">[Mobile Code: invoking untrusted mobile code](https://www.owasp.org/index.php/Mobile_code:_invoking_untrusted_mobile_code)</a>
-- <a title="This attack aims to manipulate non-final public variables used in mobile code, by injecting malicious values on it, mostly in Java and C++ applications.">[Mobile Code: non-final public field](https://www.owasp.org/index.php/Mobile_code:_non-final_public_field)</a>
-- <a title="This attack consists of a technique to create objects without constructors’ methods by taking advantage of the clone() method of Java-based applications.">[Mobile Code: object hijack](https://www.owasp.org/index.php/Mobile_code:_object_hijack)</a>
-- <a title="A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder.">[Path Traversal](https://www.owasp.org/index.php/Path_Traversal)</a>
-- <a title="Abuse of functionality on the server to read or update internal resources. The attacker can supply or a modify a URL which the code running on the server will read or submit data to.">[Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery)</a>
+- [Cross-User Defacement](https://www.owasp.org/index.php/Cross-User_Defacement "An attacker can make a single request to a vulnerable server that will cause the sever to create two responses, the second of which may be misinterpreted as a response to a different request, possibly one made by another user sharing the same TCP connection with the sever.")
+- [Mobile Code: invoking untrusted mobile code](https://www.owasp.org/index.php/Mobile_code:_invoking_untrusted_mobile_code "Manipulation of a mobile code in order to execute malicious operations at the client side.")
+- [Mobile Code: non-final public field](https://www.owasp.org/index.php/Mobile_code:_non-final_public_field "This attack aims to manipulate non-final public variables used in mobile code, by injecting malicious values on it, mostly in Java and C++ applications.")
+- [Mobile Code: object hijack](https://www.owasp.org/index.php/Mobile_code:_object_hijack "This attack consists of a technique to create objects without constructors’ methods by taking advantage of the clone() method of Java-based applications.")
+- [Path Traversal](https://www.owasp.org/index.php/Path_Traversal "A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder.")
+- [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery "Abuse of functionality on the server to read or update internal resources. The attacker can supply or a modify a URL which the code running on the server will read or submit data to.")
 
 [Contents](#contents)
 
