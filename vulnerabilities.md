@@ -4,7 +4,11 @@
 
 **https://www.owasp.org/index.php/Category:Vulnerability**
 
-## Contents
+---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Contents
 
 - [API Abuse](#api-abuse)
 - [Authentication](#authentication)
@@ -26,6 +30,8 @@
 - [Session Management](#session-management)
 - [Unsafe Mobile Code](#unsafe-mobile-code)
 - [Use of Dangerous API](#use-of-dangerous-api)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

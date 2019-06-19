@@ -4,7 +4,11 @@
 
 **https://www.owasp.org/index.php/Category:Attack**
 
-## Contents
+---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Contents
 
 - [Abuse of Functionality](#abuse-of-functionality)
 - [Automated Threat](#automated-threat)
@@ -19,6 +23,8 @@
 - [Resource Manipulation](#resource-manipulation)
 - [Sniffing Attacks](#sniffing-attacks)
 - [Spoofing Attacks](#spoofing-attacks)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

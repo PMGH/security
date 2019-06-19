@@ -13,18 +13,28 @@
 **Home Page:** https://www.owasp.org/index.php/Main_Page  
 **Youtube:** https://www.youtube.com/OWASPGLOBAL/  
 
-- [Activities](#Activites)
-- [Attacks](#Attacks)
-- [Cheat Sheets](#Cheat-Sheets): e.g. [Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet](#Cheat-Sheets)
-- [Checklists](#Checklists): e.g. [Mobile Apps Checklist](#Checklists)
-- [Controls](#Controls)
-- [Guidelines](#Guidelines): e.g. [Secure Coding Practices Quick Reference](#Guidelines)
-- [Projects](#Projects): e.g. [OWASP Top Ten](#Top-Ten-Project)
-- [Principles](#Principles)
-- [Standards](#Standards): e.g. [Application Security Verification Standard](#Standards)
-- [Teaching Environments](#Teaching-Environments): e.g. [Webgoat](#Goats)
-- [Threats](#Threats)
-- [Vulnerabilities](#Vulnerabilities)
+--
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Contents
+
+- [Activities](#activities)
+- [Attacks](#attacks)
+- [Cheat Sheets](#cheat-sheets)
+- [Checklists](#checklists)
+- [Controls](#controls)
+- [Guidelines](#guidelines)
+- [Projects](#projects)
+    - [Top Ten Project](#top-ten-project)
+- [Principles](#principles)
+- [Standards](#standards)
+- [Teaching Environments](#teaching-environments)
+    - [Goats](#goats)
+- [Threats](#threats)
+- [Vulnerabilities](#vulnerabilities)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 
