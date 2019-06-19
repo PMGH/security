@@ -1,6 +1,6 @@
 # Attacks
 
-> Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. Attacks are often confused with vulnerabilities, so please try to be sure that the attack you are describing is something that an attacker would do, rather than a weakness in an application.
+Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. Attacks are often confused with vulnerabilities, so please try to be sure that the attack you are describing is something that an attacker would do, rather than a weakness in an application.
 
 **https://www.owasp.org/index.php/Category:Attack**
 
@@ -8,7 +8,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Contents
+**Contents**
 
 - [Abuse of Functionality](#abuse-of-functionality)
 - [Automated Threat](#automated-threat)
@@ -37,8 +37,6 @@ Contents
 - [Mobile Code: object hijack](https://www.owasp.org/index.php/Mobile_code:_object_hijack "This attack consists of a technique to create objects without constructors’ methods by taking advantage of the clone() method of Java-based applications.")
 - [Path Traversal](https://www.owasp.org/index.php/Path_Traversal "A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder.")
 - [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery "Abuse of functionality on the server to read or update internal resources. The attacker can supply or a modify a URL which the code running on the server will read or submit data to.")
-
-[Contents](#contents)
 
 
 ### Automated Threat
@@ -69,15 +67,11 @@ Contents
 - [OAT-020 Account Aggregation](https://www.owasp.org/index.php/OAT-020_Account_Aggregation "Use by an intermediary application that collects together multiple accounts and interacts on their behalf.")
 - [OAT-021 Denial of Inventory](https://www.owasp.org/index.php/OAT-021_Denial_of_Inventory "Deplete goods or services stock without ever completing the purchase or committing to the transaction.")
 
-[Contents](#contents)
-
 
 ### Data Structure Attacks
 
 - [Buffer Overflow Attack](https://www.owasp.org/index.php/Buffer_overflow_attack "Buffer overflows can consist of overflowing the stack (Stack overflow) or overflowing the heap (Heap overflow).")
 - [Buffer Overflow via Environment Variables](https://www.owasp.org/index.php/Buffer_Overflow_via_Environment_Variables "This attack pattern involves causing a buffer overflow through manipulation of environment variables.")
-
-[Contents](#contents)
 
 
 ### Embedded Malicious Code
@@ -85,8 +79,6 @@ Contents
 - [Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) "Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.")
 - [Logic / Time Bomb](https://www.owasp.org/index.php/Logic/time_bomb "A logic bomb is a piece of malicious code that executes when specific trigger conditions are met.")
 - [Trojan Horse](https://www.owasp.org/index.php/Trojan_Horse "A Trojan Horse is a program that uses malicious code masqueraded as a trusted application.")
-
-[Contents](#contents)
 
 
 ### Exploitation of Authentication
@@ -99,8 +91,6 @@ Contents
 - [Session Hijacking Attack](https://www.owasp.org/index.php/Session_hijacking_attack "The Session Hijacking attack consists of the exploitation of the web session control mechanism, which is normally managed for a session token. The Session Hijacking attack compromises the session token by stealing or predicting a valid session token to gain unauthorized access to the Web Server.")
 - [Session Prediction](https://www.owasp.org/index.php/Session_Prediction "The session prediction attack focuses on predicting session ID values that permit an attacker to bypass the authentication schema of an application. By analyzing and understanding the session ID generation process, an attacker can predict a valid session ID value and get access to the application.")
 - [XSRF](https://www.owasp.org/index.php/XSRF "Cross-Site Request Forgery (CSRF)")
-
-[Contents](#contents)
 
 
 ### Injection
@@ -131,8 +121,6 @@ Contents
 - [XPATH Injection](https://www.owasp.org/index.php/XPATH_Injection "Similar to SQL Injection, XPath Injection attacks occur when a web site uses user-supplied information to construct an XPath query for XML data. By sending intentionally malformed information into the web site, an attacker can find out how the XML data is structured, or access data that he may not normally have access to. He may even be able to elevate his privileges on the web site if the XML data is being used for authentication (such as an XML based user file).")
 - [XSS in Subtitle](https://www.owasp.org/index.php/Xss_in_subtitle "It is possible for an attacker to execute JavaScript in a video's subtitle. This is also referred to as XSS (Cross-Site Scripting). If a website loads the subtitle separately in the browser then an attacker can run any HTML or JavaScript in the video subtitle.")
 
-[Contents](#contents)
-
 
 ### Path Traversal Attack
 
@@ -144,8 +132,6 @@ Contents
 
 - [Path Traversal](https://www.owasp.org/index.php/Path_Traversal "A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder. By manipulating variables that reference files with “dot-dot-slash (../)” sequences and its variations or by using absolute file paths, it may be possible to access arbitrary files and directories stored on file system including application source code or configuration and critical system files. It should be noted that access to files is limited by system operational access control (such as in the case of locked or in-use files on the Microsoft Windows operating system).")
 
-[Contents](#contents)
-
 
 ### Probabilistic Techniques
 
@@ -154,22 +140,16 @@ Contents
 - [Cryptanalysis](https://www.owasp.org/index.php/Cryptanalysis "Cryptanalysis is a process of finding weaknesses in cryptographic algorithms and using these weaknesses to decipher the ciphertext without knowing the secret key (instance deduction). Sometimes the weakness is not in the cryptographic algorithm itself, but rather in how it is applied that makes cryptanalysis successful.")
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service "The Denial of Service (DoS) attack is focused on making a resource (site, application, server) unavailable for the purpose it was designed. There are many ways to make a service unavailable for legitimate users by manipulating network packets, programming, logical, or resources handling vulnerabilities, among others. If a service receives a very large number of requests, it may cease to be available to legitimate users.")
 
-[Contents](#contents)
-
 
 ### Protocol Manipulation
 
 - [Traffic Flood](https://www.owasp.org/index.php/Traffic_flood "Traffic Flood is a type of DoS attack targeting web servers. The attack explores the way that the TCP connection is managed. The attack consists of the generation of a lot of well-crafted TCP requisitions, with the objective to stop the Web Server or cause a performance decrease. The attack explores a characteristic of the HTTP protocol, opening many connections at the same time to attend a single requisition.")
-
-[Contents](#contents)
 
 
 ### Resource Depletion
 
 - [Cash Overflow](https://www.owasp.org/index.php/Cash_Overflow "A Cash Overflow attack is a Denial of Service attack specifically aimed at exceeding the hosting costs for a cloud application, either essentially bankrupting the service owner or exceeding the application cost limits, leading the cloud service provider to disable the application.")
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service "The Denial of Service (DoS) attack is focused on making a resource (site, application, server) unavailable for the purpose it was designed. There are many ways to make a service unavailable for legitimate users by manipulating network packets, programming, logical, or resources handling vulnerabilities, among others. If a service receives a very large number of requests, it may cease to be available to legitimate users. In the same way, a service may stop if a programming vulnerability is exploited, or the way the service handles resources it uses.")
-
-[Contents](#contents)
 
 
 ### Resource Manipulation
@@ -185,8 +165,6 @@ Contents
 - [Spyware](https://www.owasp.org/index.php/Spyware "Spyware is a program that captures statistical information from a user's computer and sends it over internet without user acceptance. This information is usually obtained from cookies and the web browser’s history. Spyware can also install other software, display advertisements, or redirect the web browser activity. Spyware differs from a virus, worm, and adware in various ways. Spyware does not self-replicate and distribute itself like viruses and worms, and does not necessarily display advertisements like adware.")
 - [Unicode Encoding](https://www.owasp.org/index.php/Unicode_Encoding "The attack aims to explore flaws in the decoding mechanism implemented on applications when decoding Unicode data format. An attacker can use this technique to encode certain characters in the URL to bypass application filters, thus accessing restricted resources on the Web server or to force browsing to protected pages.")
 
-[Contents](#contents)
-
 
 ### Sniffing Attacks
 
@@ -196,8 +174,6 @@ https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 
 > Anyone with physical access to the network, whether it is switched or via a hub, is likely able to sniff the traffic. (See dsniff and arpspoof tools). Also, anyone with access to intermediate routers, firewalls, proxies, servers, or other networking gear may be able to see the traffic as well.
 
-[Contents](#contents)
-
 
 ### Spoofing Attacks
 
@@ -206,6 +182,3 @@ https://www.owasp.org/index.php/Sniffing_application_traffic_attack
 - [Denial of Service](https://www.owasp.org/index.php/Denial_of_Service "The Denial of Service (DoS) attack is focused on making a resource (site, application, server) unavailable for the purpose it was designed. There are many ways to make a service unavailable for legitimate users by manipulating network packets, programming, logical, or resources handling vulnerabilities, among others. If a service receives a very large number of requests, it may cease to be available to legitimate users. In the same way, a service may stop if a programming vulnerability is exploited, or the way the service handles resources it uses.")
 - [Man-In-The-Middle Attack](https://www.owasp.org/index.php/Man-in-the-middle_attack "The man-in-the middle attack intercepts a communication between two systems. For example, in an http transaction the target is the TCP connection between client and server. Using different techniques, the attacker splits the original TCP connection into 2 new connections, one between the client and the attacker and the other between the attacker and the server. Once the TCP connection is intercepted, the attacker acts as a proxy, being able to read, insert and modify the data in the intercepted communication.")
 - [Server Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery "In a Server-Side Request Forgery (SSRF) attack, the attacker can abuse functionality on the server to read or update internal resources. The attacker can supply or a modify a URL which the code running on the server will read or submit data to, and by carefully selecting the URLs, the attacker may be able to read server configuration such as AWS metadata, connect to internal services like http enabled databases or perform post requests towards internal services which are not intended to be exposed.")
-
-[Contents](#contents)
-

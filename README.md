@@ -13,11 +13,9 @@
 **Home Page:** https://www.owasp.org/index.php/Main_Page  
 **Youtube:** https://www.youtube.com/OWASPGLOBAL/  
 
---
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Contents
+**Contents**
 
 - [Activities](#activities)
 - [Attacks](#attacks)
@@ -45,8 +43,6 @@ Contents
 
 **https://www.owasp.org/index.php/Category:Activity**
 
-[Contents](#OWASP)
-
 
 # Attacks
 
@@ -56,8 +52,6 @@ Contents
 
 [Further Information](./attacks.md)
 
-[Contents](#OWASP)
-
 
 # Cheat Sheets
 
@@ -65,8 +59,6 @@ Contents
 - https://github.com/OWASP/CheatSheetSeries
 - https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md
 - **https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets**
-
-[Contents](#OWASP)
 
 
 # Checklists
@@ -86,8 +78,6 @@ Contents
 11)	[File Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#File_Management)
 12)	[Memory Management](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#Memory_Management)
 13)	[General Coding Practices](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist#General_Coding_Practices)
-
-[Contents](#OWASP)
 
 
 # Controls
@@ -117,14 +107,10 @@ Breakdown could include **administrative**, **technical** and **physical** contr
 
 *Of these 11, it is interesting to note that two relate to **infrastructure architecture**, four are **operational**, two are part of **testing processes**, and only three are things that are done as part of **coding**.*
 
-[Contents](#OWASP)
-
 
 # Guidelines
 
 **[OWASP Secure Coding Practices - Quick Reference Guide](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)**
-
-[Contents](#OWASP)
 
 
 # Projects
@@ -155,8 +141,6 @@ Breakdown could include **administrative**, **technical** and **physical** contr
 10) Insufficient Logging And Monitoring
 ```
 
-[Contents](#OWASP)
-
 
 # Principles
 
@@ -175,16 +159,12 @@ https://www.owasp.org/index.php/Category:Principle
 - **Don’t trust services**
 - **Establish secure defaults (psychological acceptability)**
 
-[Contents](#OWASP)
-
 
 # Standards
 
 [Application Security Verification Standard](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
 
 > The [OWASP Application Security Verification Standard (ASVS)](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
-
-[Contents](#OWASP)
 
 
 # Teaching Environments
@@ -198,8 +178,6 @@ https://www.owasp.org/index.php/Category:Principle
 **Railsgoat:** https://github.com/OWASP/railsgoat
 
 **.Netgoat:** https://github.com/OWASP/WebGoat.NET
-
-[Contents](#OWASP)
 
 
 # Threats
@@ -225,9 +203,6 @@ https://www.owasp.org/index.php/Category:Principle
 ```
 
 
-[Contents](#OWASP)
-
-
 # Vulnerabilities
 
 > A vulnerability is a hole or a weakness in the application, which can be a design flaw or an implementation bug, that allows an attacker to cause harm to the stakeholders of an application.
@@ -245,8 +220,6 @@ The term "vulnerability" is often used very loosely. However, here we need to di
 ```
 
 [Further Information](./vulnerabilities.md)
-
-[Contents](#OWASP)
 
 ---
 
@@ -270,5 +243,3 @@ The term "vulnerability" is often used very loosely. However, here we need to di
 - Teaching Environments (.Netgoat): https://github.com/OWASP/WebGoat.NET
 - Threats: https://www.owasp.org/index.php/Category:Threat
 - Vulnerabilities: https://www.owasp.org/index.php/Category:Vulnerability
-
-[Contents](#OWASP)
