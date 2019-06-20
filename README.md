@@ -196,7 +196,7 @@ https://www.owasp.org/index.php/Category:Principle
 - Sniffers
 - Backdoors
 - Rootkits
-- Viruse
+- Virus
 - Worm
 - Spyware
 - Trojan Horse
